@@ -1,0 +1,5 @@
+Lancer laragon, crée le serveur locale, puis base de données > pour ce connecter a PHPmyAdmin > login : root mdp: aucun mot de passe > crée nouvelle
+
+base de données > inscrire nom de la base de données puis selectionner l'encodage de chaine de caractère "utf8_general_ci" > puis lancer l'instal
+
+wordpress sur localhost:8080/wordpress

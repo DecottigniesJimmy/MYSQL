@@ -1,0 +1,8 @@
+table, th, td {
+    border-collapse: collapse;
+    border: 0.8px solid black;
+}
+
+h1 {
+    background-color: green;
+}

@@ -1,0 +1,27 @@
+table tr td {
+    border: 1px solid black;
+}
+
+td {
+    width: 120px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-page {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.td-title {
+    background-color: rgb(9, 255, 0);
+    font-weight: 900;
+}
